@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Javascript",
+    "desc": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages.",
+    "image": "../image/javascript.png"
+  },
+  {
+    "id": 2,
+    "name": "Typescript",
+    "desc": "TypeScript extends JavaScript by adding types to the language.",
+    "image": "../image/typescript.png"
+  },
+  {
+    "id": 3,
+    "name": "Tailwind Css",
+    "desc": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.",
+    "image": "../image/Tailwind-CSS.webp"
+  },
+  {
+    "id": 4,
+    "name": "React Js",
+    "desc": "React is the library for web and native user interfaces, Build user interfaces out of individual pieces called components written in JavaScript.",
+    "image": "../image/React.png"
+  },
+  {
+    "id": 5,
+    "name": "Vite Js",
+    "desc": "Vite is a zero-fee, lightning-fast blockchain for the decentralized economy.",
+    "image": "../image/Vite.js.png"
+  },
+  {
+    "id": 6,
+    "name": "Docker",
+    "desc": "Docker is a platform designed to help developers build, share, and run container applications.",
+    "image": "../image/Docker.png"
+  },
+  {
+    "id": 7,
+    "name": "Nest Js",
+    "desc": "NestJS is a framework for building efficient, scalable Node.js web applications, It uses modern JavaScript.",
+    "image": "../image/Nest.js.png"
+  }
+]

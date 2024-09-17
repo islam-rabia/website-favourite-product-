@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Product Design",
+    "description": "Use this section to describe your work",
+    "img": "../image/work-1.jpg"
+  },
+
+  {
+    "id": 2,
+    "title": "App Development",
+    "description": "Use this section to describe your work",
+    "img": "../image/work-2.jpg"
+  },
+
+  {
+    "id": 3,
+    "title": "Api",
+    "description": "Use this section to describe your work",
+    "img": "../image/work-3.jpg"
+  }
+]
